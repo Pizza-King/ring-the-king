@@ -8,6 +8,9 @@ gem 'coffee-rails', '4.2.1'
 gem 'jquery-rails', '4.1.1'
 gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.4.1'
+gem 'rollbar'
+gem 'oj', '~> 2.12.14'
+gem 'newrelic_rpm'
 
 group :development, :test do
   gem 'sqlite3', '1.3.12'
