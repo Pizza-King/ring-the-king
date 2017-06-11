@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Pizza-King/ring-the-king.png?label=ready&title=Ready)](https://waffle.io/Pizza-King/ring-the-king?utm_source=badge)
 # Pizza King | Ring The King Application
 
 This is a development application for
